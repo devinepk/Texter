@@ -1,0 +1,35 @@
+[v-cloak] {
+    display: none
+}
+
+.jumbotron {
+  background-image: url("https://images.unsplash.com/photo-1513910305040-997f4421c920?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c1c75f426852610c747094915de5c0a8&auto=format&fit=crop&w=1534&q=80");
+  background-position: center;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  color: #D89832;
+
+}
+
+h2, h3, h4 {
+  font-family: 'Assistant', sans-serif;
+  color: #CED2D6;
+}
+
+.boxy {
+  background-color: black;
+  box-sizing: border-box;
+  width: 50%;
+  float:inherit;
+  height: 120%;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
