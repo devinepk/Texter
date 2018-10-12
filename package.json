@@ -1,0 +1,25 @@
+{
+  "name": "texter",
+  "version": "1.0.0",
+  "description": "This is a web app that provides the count what text you submit (sentences, paragraphs, etc.).",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinepk/Texter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devinepk/Texter/issues"
+  },
+  "homepage": "https://github.com/devinepk/Texter#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
